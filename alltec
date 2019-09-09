@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am alltec on github.
+  * I am alltec (https://keybase.io/alltec) on keybase.
+  * I have a public key ASDPM0x7g_0jnTYdPa6SUTTn3uEqlyigWI02fkB1zb6Ptgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cf334c7b83fd239d361d3dae925134e7dee12a9728a0588d367e4075cdbe8fb60a",
+      "host": "keybase.io",
+      "kid": "0120cf334c7b83fd239d361d3dae925134e7dee12a9728a0588d367e4075cdbe8fb60a",
+      "uid": "09faa75a8555d20bb474955205acfc19",
+      "username": "alltec"
+    },
+    "merkle_root": {
+      "ctime": 1568047789,
+      "hash": "607db9ded6483727563d1baf2411f91ff3215cc381831fe972967a16d7046277e9c36bcfe79645b160efb411d88d39e676a7315d8fdf8ec5c83008ae72369633",
+      "hash_meta": "0fb46d8f32c62f1ae1c23b9f6f1dc2b963740e79be964a0baf74c5c25f1bcb86",
+      "seqno": 6212409
+    },
+    "service": {
+      "entropy": "UvtczhwW0RzbZW1CFFK7KSeO",
+      "name": "github",
+      "username": "alltec"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568047827,
+  "expire_in": 504576000,
+  "prev": "4f7bd4a57cc0309f667817fd7068346d4fa4fbc3a9a996ee598d27e1c73f74f9",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASDPM0x7g_0jnTYdPa6SUTTn3uEqlyigWI02fkB1zb6Ptgo](https://keybase.io/alltec), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzzNMe4P9I502HT2uklE0597hKpcooFiNNn5Adc2+j7YKp3BheWxvYWTESpcCBsQgT3vUpXzAMJ9meBf9cGg0bU+k+8OpqZbuWY0n4cc/dPnEIK+cgqhMPI/ak9qTRU21aiQDTJqa6Laseuebe0DFcaKGAgHCo3NpZ8RAw9U6ooJ2mrrPAMeBsV/EelepNIgmZrSZjLSZ9jhCom0d3VacK3cxryYELGbh+TsUM9rqQVdImsq8QwnjJQcUD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM25WaQ9ieR/sWh6sU3m5/dFxQ8L/QrFP6OxYRsAjIaqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/alltec
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id alltec
+```
